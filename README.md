@@ -2,7 +2,7 @@
 
 This works with the mobile app, get it from https://www.txthinking.com
 
-### Install via nami
+### Install via [nami](https://github.com/txthinking/nami)
 
 ```
 $ nami install github.com/txthinking/wiresharkhelper
