@@ -15,5 +15,5 @@ nami install wiresharkhelper
 ### Usage
 
 ```
-$ wiresharkhelper DESKTOP_LAN_IP
+wiresharkhelper DESKTOP_LAN_IP
 ```
