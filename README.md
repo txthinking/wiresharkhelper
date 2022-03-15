@@ -7,9 +7,10 @@ This works with the mobile app, get it from https://www.txthinking.com
 ```
 nami install wiresharkhelper
 ```
-or download binary from [releases](https://github.com/txthinking/wiresharkhelper/releases)
 
 > Windows user should run in [Git Bash](https://gitforwindows.org/)
+
+[Video 1](https://www.youtube.com/watch?v=CioIqzSlXl8) [Video 2](https://www.youtube.com/watch?v=57ldrFY-tVI) [Video 3](https://www.youtube.com/watch?v=szzMg-Uugjo)
 
 ### Usage
 
